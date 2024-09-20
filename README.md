@@ -1,0 +1,2 @@
+# Video_Smart_subtitle_captioning
+利用阿里云提供的视频处理接口完成字幕的识别和去除
